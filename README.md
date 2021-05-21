@@ -7,6 +7,8 @@
 Este é um site para sorteios de carros. 
 O projeto foi desenvolvido especialmente para a [Agência Arcanjo](https://empresarial.agenciaarcanjo.com.br/home). 
 
+![](/src/assets/resultado.png)
+
 ## 🛠 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
